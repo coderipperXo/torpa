@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115507797475",
+    "project_id": "nearby-22ad3",
+    "storage_bucket": "nearby-22ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115507797475:android:d4ac3035f62eda84d894d6",
+        "android_client_info": {
+          "package_name": "com.example.fluttera2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115507797475-h9hc10n9do5onegmi26kam9f9cp438ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqlD2oCuy328uFeK4o8saN9hofIr8sJ1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115507797475-h9hc10n9do5onegmi26kam9f9cp438ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
